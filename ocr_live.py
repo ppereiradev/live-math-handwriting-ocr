@@ -16,7 +16,7 @@ then it passess each frame in the ResNet to classify the characters.
 To finish, it put a box around each characters and plot a chart,
 using the sympy library.
 
-This is script is based on Dr. Adrian Rosebrock's tutorial 
+This script is based on Dr. Adrian Rosebrock's tutorial 
 (OCR with Keras, TensorFlow, and Deep Learning - Part 2)
 which can be followed in: 
 https://www.pyimagesearch.com/2020/08/24/ocr-handwriting-recognition-with-opencv-keras-and-tensorflow/

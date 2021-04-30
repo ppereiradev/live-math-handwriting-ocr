@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 '''
 This script is responsible for training the ResNet model. 
-This is script is based on Dr. Adrian Rosebrock's tutorial 
+This script is based on Dr. Adrian Rosebrock's tutorial 
 (OCR with Keras, TensorFlow, and Deep Learning - Part 1)
 which can be followed in: 
 https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/
