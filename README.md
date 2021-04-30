@@ -1,6 +1,6 @@
 # Live Math Equation Handwriting OCR
 
-![alt text](https://github.com/prpereiras89/live-math-handwriting-ocr/blob/main/scheme_handwriting.png)
+![alt text](https://github.com/prpereiras89/live-math-handwriting-ocr/blob/main/scheme_handwriting.jpg)
 
 ## Overview
 
